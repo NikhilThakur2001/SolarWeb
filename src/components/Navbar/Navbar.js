@@ -18,7 +18,7 @@ const Navbar = () => {
               alt="Flowbite Logo"
             />
             <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white font-bold">
-              Galaxy Solar Pvt. Ltd.
+              Galaxy Solar India
             </span>
           </a>
         </div>
