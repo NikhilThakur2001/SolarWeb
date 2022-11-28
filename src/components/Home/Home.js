@@ -19,6 +19,7 @@ import { IoIosArrowDropdownCircle } from "react-icons/io";
 const Home = () => {
   return (
     <div class="">
+      {/*Nvabar section starts here*/}
       <div className={`${classes.topImageClass}  z-0`}>
         <div className={`${classes.belowDiv} pt-4 `}>
           <Navbar />
